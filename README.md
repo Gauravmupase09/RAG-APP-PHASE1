@@ -1,4 +1,4 @@
-# 📘 RAG-APP — Chat With Your Documents
+# 📘 RAG-APP-PHASE1 — Chat With Your Documents
 
 RAG-APP is a complete Retrieval-Augmented Generation system where users can upload documents (PDF, DOCX, TXT), process them, and instantly chat with their content using LLMs — along with accurate, clickable citations.
 
@@ -291,3 +291,4 @@ Feel free to open issues or suggest improvements.
 ## 📜 License
 
 MIT License
+
