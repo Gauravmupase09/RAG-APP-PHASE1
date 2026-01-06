@@ -46,7 +46,7 @@ User → Streamlit UI → FastAPI Backend → Qdrant Vector DB
 ## 📁 Project Structure
 
 ```bash
-RAG-APP/
+APP/
 │
 ├── backend/
 │   ├── api/
@@ -291,4 +291,5 @@ Feel free to open issues or suggest improvements.
 ## 📜 License
 
 MIT License
+
 
